@@ -4,9 +4,7 @@ Interactive Flutter demo where images are sampled into particles and assemble fr
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/f227d6ce-132e-48f6-aa4d-009afc3d3a21
-
+![Demo](https://github.com/user-attachments/assets/f227d6ce-132e-48f6-aa4d-009afc3d3a21)
 
 ## Pipeline
 
