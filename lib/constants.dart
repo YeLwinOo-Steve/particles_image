@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'models/image_source.dart';
 
 const double kPanelWidth = 280;
+const double kCompactBreakpoint = 600;
 const Color kPanelBg = Color(0xFF15151C);
 const Color kBackground = Color(0xFF0A0A0F);
 

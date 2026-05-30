@@ -11,8 +11,7 @@ class SidePanel extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      width: kPanelWidth,
+    return ColoredBox(
       color: kPanelBg,
       child: ListenableBuilder(
         listenable: s,
