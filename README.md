@@ -1,6 +1,10 @@
 # particles_image
 
-Flutter demo: PNG assets are sampled into colored dots that scatter, assemble, and react to the pointer.
+Interactive Flutter demo where images are sampled into particles and assemble from scatter. Hover or drag to push them apart — they spring back into place.
+
+## Demo
+
+
 
 ## Pipeline
 
