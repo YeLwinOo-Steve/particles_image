@@ -14,7 +14,7 @@ class Settings extends ChangeNotifier {
   // Sampling (re-rasterize on change)
   int gap = 4;
   double scatter = 0.7;
-  double imageSize = 200;
+  double imageSize = 300;
 
   void change() => notifyListeners();
   void resample() => notifyListeners();
